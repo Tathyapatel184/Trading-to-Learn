@@ -1,0 +1,6 @@
+{
+  "name": "TradingToLearn - Collegiate Trading Challenge",
+  "description": "Independent collegiate trading competition platform where university student teams manage $1M virtual investment portfolios across fundamental and quantitative strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
